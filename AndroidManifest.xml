@@ -9,7 +9,7 @@
         android:label="@string/app_name" >
         <activity
             android:label="@string/app_name"
-            android:name=".FallAnimationActivity" >
+            android:name="com.twodwarfs.fallanimation.FallAnimationActivity" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
